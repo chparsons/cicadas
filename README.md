@@ -12,3 +12,16 @@ Electromechanical Sound Installation on Evolution
 
 Commissioned by the Museum Naturkunde, Halle (Saale) Germany  
 
+dependencies  
+============
+
+processing 1.5.1  
+http://processing.org/  
+
+oscP5 0.9.8  
+http://www.sojamo.de/libraries/oscP5/  
+https://code.google.com/p/oscp5/  
+
+controlP5 0.5.4  
+http://www.sojamo.de/libraries/controlP5/  
+
